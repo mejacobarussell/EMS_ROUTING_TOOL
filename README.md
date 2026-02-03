@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://app.yourditchdoc.com" target="_blank" rel="noopener noreferrer">
-    <strong>🚀 Click here to launch the DFW ER Navigator Pro Tool</strong>
+    <strong>🚀 Click here to launch the ER Navigator Pro Tool DEMO
+    can easily be set up for your use for your system by creating your own server and filling in the administration page with all the details you need </strong>
   </a>
 </p>
 
