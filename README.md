@@ -6,7 +6,7 @@
 
 "Hi there! By day (and often by night), I’m a paramedic working on the front lines. When I’m not on the road, I’m at my desk diving into the world of computer science. It’s my favorite way to decompress after a long shift.
 
-> Your support helps keep me caffeinated for those 24-hour shifts and contributes to my learning journey in tech. Whether it's a 'thank you' for my service or just a shared love for clean code, you can <a href="https://buymeacoffee.com/yourditchdoc" target="_blank" rel="noopener noreferrer">**support the project here**</a>.
+> Your support helps keep me caffeinated for those 24-hour shifts and contributes to my learning journey in tech. Whether it's a 'thank you' for my service or just a shared love for clean code, you can <a href="https://buymeacoffee.com/yourditchdoc" target="_blank" rel="noopener noreferrer">**support the project here**↗️</a>.
 
 Smart Ambulance Routing for the Dallas-Fort Worth EMS Community.
 ### 🚑 System Architecture: How It Works
