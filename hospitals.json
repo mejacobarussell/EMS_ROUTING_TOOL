@@ -1,0 +1,279 @@
+[
+    {
+        "n": "Medical City Arlington",
+        "c": "Arlington",
+        "lat": 32.690822,
+        "lng": -97.112642,
+        "tags": [
+            "TRAUMA",
+            "CSC",
+            "STEMI"
+        ],
+        "lvl": "II",
+        "p": "8174659161",
+        "dc": "7281",
+        "bc": "----"
+    },
+    {
+        "n": "Texas Health Arlington Memorial",
+        "c": "Arlington",
+        "lat": 32.749499,
+        "lng": -97.116331,
+        "tags": [
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "III",
+        "p": "8179606211",
+        "dc": "0800*",
+        "bc": "----"
+    },
+    {
+        "n": "Methodist Mansfield",
+        "c": "Mansfield",
+        "lat": 32.567089,
+        "lng": -97.097063,
+        "tags": [
+            "TRAUMA",
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "III",
+        "p": "8174731105",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Texas Health Mansfield",
+        "c": "Mansfield",
+        "lat": 32.566112,
+        "lng": -97.125211,
+        "tags": [
+            "PSC"
+        ],
+        "lvl": "IV",
+        "p": "6823415105",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "JPS Health Network",
+        "c": "Fort Worth",
+        "lat": 32.727845,
+        "lng": -97.327503,
+        "tags": [
+            "TRAUMA",
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "I",
+        "p": "8177028839",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Texas Health Harris Methodist Fort Worth",
+        "c": "Fort Worth",
+        "lat": 32.733711,
+        "lng": -97.33892,
+        "tags": [
+            "TRAUMA",
+            "CSC",
+            "STEMI"
+        ],
+        "lvl": "I",
+        "p": "8173326454",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Cook Children's Medical Center",
+        "c": "Fort Worth",
+        "lat": 32.741355,
+        "lng": -97.340512,
+        "tags": [
+            "TRAUMA",
+            "PEDS"
+        ],
+        "lvl": "II",
+        "p": "6828854093",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Medical City Fort Worth",
+        "c": "Fort Worth",
+        "lat": 32.739501,
+        "lng": -97.333011,
+        "tags": [
+            "CSC",
+            "STEMI"
+        ],
+        "lvl": "II",
+        "p": "8173475830",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Medical City Alliance",
+        "c": "Fort Worth",
+        "lat": 32.934892,
+        "lng": -97.31174,
+        "tags": [
+            "PSC"
+        ],
+        "lvl": "III",
+        "p": "6822122333",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Texas Health Huguley",
+        "c": "Burleson",
+        "lat": 32.58521,
+        "lng": -97.31134,
+        "tags": [
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "III",
+        "p": "8175512729",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Texas Health Harris Methodist HEB",
+        "c": "Bedford",
+        "lat": 32.83391,
+        "lng": -97.13055,
+        "tags": [
+            "TRAUMA",
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "III",
+        "p": "8178484628",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Medical City North Hills",
+        "c": "NRH",
+        "lat": 32.836811,
+        "lng": -97.218501,
+        "tags": [
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "III",
+        "p": "8172551819",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "USMD Hospital at Arlington",
+        "c": "Grand Prairie",
+        "lat": 32.68211,
+        "lng": -97.02251,
+        "tags": [],
+        "lvl": "IV",
+        "p": "9726064799",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Baylor Scott & White - Grand Prairie",
+        "c": "Grand Prairie",
+        "lat": 32.678505,
+        "lng": -97.021112,
+        "tags": [],
+        "lvl": "IV",
+        "p": "8176522965",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Parkland Memorial Hospital",
+        "c": "Dallas",
+        "lat": 32.813106,
+        "lng": -96.834931,
+        "tags": [
+            "TRAUMA",
+            "PSC",
+            "STEMI"
+        ],
+        "lvl": "I",
+        "p": "2145908848",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Baylor University Medical Center",
+        "c": "Dallas",
+        "lat": 32.788501,
+        "lng": -96.7781,
+        "tags": [
+            "TRAUMA",
+            "CSC",
+            "STEMI"
+        ],
+        "lvl": "I",
+        "p": "2148189252",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Methodist Dallas Medical Center",
+        "c": "Dallas",
+        "lat": 32.7585,
+        "lng": -96.8239,
+        "tags": [
+            "TRAUMA",
+            "CSC",
+            "STEMI"
+        ],
+        "lvl": "I",
+        "p": "2149487530",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "UT Southwestern Clements Jr.",
+        "c": "Dallas",
+        "lat": 32.81451,
+        "lng": -96.8395,
+        "tags": [
+            "CSC",
+            "STEMI"
+        ],
+        "lvl": "IV",
+        "p": "2146706438",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "Children's Medical Center Dallas",
+        "c": "Dallas",
+        "lat": 32.8105,
+        "lng": -96.8391,
+        "tags": [
+            "TRAUMA",
+            "PEDS"
+        ],
+        "lvl": "I",
+        "p": "2144568140",
+        "dc": "",
+        "bc": "----"
+    },
+    {
+        "n": "VA North Texas Health (Dallas)",
+        "c": "Dallas",
+        "lat": 32.694149,
+        "lng": -96.791825,
+        "tags": [],
+        "lvl": "V",
+        "p": "2148571975",
+        "dc": "",
+        "bc": "----"
+    }
+]
