@@ -245,7 +245,7 @@
     function attemptUnlock() {
         if (codesUnlocked) return;
         const doorPass = prompt("Enter Door Code Password:");
-        if (doorPass === "1968") { 
+        if (doorPass === "EMS") { 
             codesUnlocked = true;
             sessionStorage.setItem("codesUnlocked", "true");
             renderList();
