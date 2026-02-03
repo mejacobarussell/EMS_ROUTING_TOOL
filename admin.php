@@ -1,0 +1,1 @@
+<form method="POST" style="text-align:center;padding:50px;font-family:sans-serif;"><h2>Admin Login</h2><input type="password" name="p"><button>Go</button></form>
