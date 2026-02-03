@@ -9,7 +9,7 @@
 > Your support helps keep me caffeinated for those 24-hour shifts and contributes to my learning journey in tech. Whether it's a 'thank you' for my service or just a shared love for clean code, you can <a href="https://buymeacoffee.com/yourditchdoc" target="_blank" rel="noopener noreferrer">**support the project here**↗️</a>.
 
 
-![App Screenshot](/screenshot.png)
+![App Screenshot](/Example_admin_page.png)
 
 Smart Ambulance Routing for the Dallas-Fort Worth EMS Community.
 ### 🚑 System Architecture: How It Works
