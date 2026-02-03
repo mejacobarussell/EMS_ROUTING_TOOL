@@ -2,6 +2,16 @@ ER Navigator Pro
 
 Smart Ambulance Routing for the Dallas-Fort Worth EMS Community.
 
+
+Step,Action,File Responsible
+1,Admin updates a door code.,admin.php writes to hospitals.json
+2,Medic opens the web app.,index.php loads
+3,App identifies Medic's location.,Browser GPS → index.php
+4,App calculates & sorts ERs.,index.php processes hospitals.json
+5,"Medic filters for ""Stroke,STEMI,TRAUMA"".",index.php hides non-selected facilities
+
+
+
 DFW METRO PLEX EXAMPLE TOOL
 
 https://app.yourditchdoc.com
