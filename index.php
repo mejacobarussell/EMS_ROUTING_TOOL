@@ -3,7 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>DFW ER Navigator Pro</title>
+    <meta name="application-name" content="ER Navigator Free">
+    <meta name="author" content="Jacob Russell">
+    <meta name="contact" content="jacobrussell.nremtp@gmail.com">
+    <meta name="version" content="1.0.0-Free">
+    <meta name="license" content="MIT">
+    <meta name="copyright" content="Copyright 2024 Jacob Russell">
+    
+    <title>ER Navigator Pro</title>
     
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     
