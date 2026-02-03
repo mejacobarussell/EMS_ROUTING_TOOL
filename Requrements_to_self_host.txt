@@ -1,0 +1,31 @@
+To host the ER Navigator Pro on your own server, here is the simplified list of requirements:
+
+1. Hardware & Operating System
+A computer or server that stays on 24/7 (like a Raspberry Pi, old laptop, or a Linux VPS, UNRIAD).
+A Linux-based OS (Ubuntu or Debian are recommended for the best compatibility).
+
+2. Software Stack (The "Engine")
+Apache2 Web Server: To serve the website files.
+PHP (Version 7.4 or higher): Required to run the logic in index.php and admin.php.
+Cloudflare Tunnel (cloudflared): Is recomemended to securely connect your local server to your domain (yourdomain.com)
+without opening router ports. (extra security)
+And of course your own doamin name.
+
+3. Necessary Files
+You must place these three files in your web directory (usually /var/www/html/):
+index.php:        The main user interface for the medics.
+admin.php:        The password-protected portal to update data.
+hospitals.json:   The database file containing hospital locations, specialty tags, and door codes.
+
+4. Critical Permissions
+
+Write Access: Your web server (Apache) must have permission to write to hospitals.json. Without this, the admin panel cannot
+save new door codes or hospital updates.
+SSL/HTTPS: Must be enabled through Cloudflare to ensure sensitive data (like ER door codes) is encrypted during transit.
+
+5. Connectivity
+
+Internet Access: For the server to talk to Cloudflare and for the app to load external map data (Leaflet.js).
+GPS Enabled Device: The end-user (EMT/MEDIC) must have a device with GPS and must grant
+location permissions for the distance sorting to work.
+
