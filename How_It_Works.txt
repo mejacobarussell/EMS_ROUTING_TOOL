@@ -1,0 +1,36 @@
+1. The Data Source: hospitals.json
+This is the "brain" of your application. It acts as a flat-file database containing every piece of information the app needs to function.
+
+Structure: Each hospital is an object containing geographical coordinates (latitude/longitude), specialty levels (Trauma, Stroke, etc.), and logistics (EMS room codes).
+
+The Coordinates: These are critical because they allow the app to calculate the Haversine Distance (the "as-the-crow-flies" distance) between the medic's current GPS location and the ER.
+
+Specialty Tags: Boolean values (true/false) allow the user to filter for specific needs, like a Burn Unit or a Level 1 Trauma center.
+
+2. The User Interface: index.php
+This is what the medic sees on their phone in the back of the ambulance. It performs three main tasks:
+
+Geolocation: It asks the browser for the device's current coordinates using the navigator.geolocation API.
+
+Distance Calculation: It fetches the hospitals.json file and runs a math script to compare the medic's location to every hospital in the list.
+
+Dynamic Rendering: * It sorts the hospitals so the closest ones appear at the top.
+
+It filters the list based on which buttons the medic clicks (e.g., clicking "STEMI" hides any hospital that isn't cardiac-capable).
+
+It generates "Action Buttons" that deep-link into the phone’s OS to start a phone call or open Google Maps.
+
+3. The Control Room: admin.php
+Since hospital codes change and facilities upgrade their capabilities, you need a way to edit the data without writing code.
+
+Authentication: It uses a simple password check to ensure only authorized users can modify the database.
+
+The CRUD Loop (Create, Read, Update, Delete):
+
+Read: It opens hospitals.json and displays the data in an editable form.
+
+Update: When you change a door code or a trauma level and hit "Save," the script encodes that data back into the JSON format.
+
+Write: It overwrites the old hospitals.json file with the new information.
+
+Instant Updates: The moment you save in admin.php, every medic using the app sees the updated information the next time their page refreshes.
