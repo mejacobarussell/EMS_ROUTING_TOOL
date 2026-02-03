@@ -1,16 +1,18 @@
-ER Navigator Pro
+EMS ER Navigator Pro
+
+"Hi there! By day (and often by night), I’m a paramedic working on the front lines. When I’m not on the road, I’m at my desk diving into the world of computer science. It’s my favorite way to decompress after a long shift.
+
+Your support helps keep me caffeinated for those 24-hour shifts and contributes to my learning journey in tech. Whether it's a 'thank you' for my service or just a shared love for clean code, 
+I truly appreciate the support!" 
 
 Smart Ambulance Routing for the Dallas-Fort Worth EMS Community.
 
-
-Step,Action,File Responsible
-1,Admin updates a door code.,admin.php writes to hospitals.json
-2,Medic opens the web app.,index.php loads
-3,App identifies Medic's location.,Browser GPS → index.php
-4,App calculates & sorts ERs.,index.php processes hospitals.json
-5,"Medic filters for ""Stroke,STEMI,TRAUMA"".",index.php hides non-selected facilities
-
-
+Step    Action	                                        File Responsible
+  1     Admin updates a door code.	                    admin.php writes to hospitals.json
+  2	    Medic opens the web app.	                      index.php loads
+  3	    App identifies Medic's location. Browser GPS  → index.php
+  4    	App calculates & sorts ERs.	                    index.php processes hospitals.json
+  5	    Medic filters for "Stroke".	                    index.php hides non-stroke facilities
 
 DFW METRO PLEX EXAMPLE TOOL
 
