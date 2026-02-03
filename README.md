@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://app.yourditchdoc.com" target="_blank" rel="noopener noreferrer">
-    <strong>🚀 Click here to launch the ER Navigator Pro Tool DEMO
+    <strong>🚀 Click here to launch the free version of ER Navigator Pro Tool DEMO
     can easily be set up for your use for your system by creating your own server and filling in the administration page with all the details you need </strong>
   </a>
 </p>
 
 "Hi there! By day (and often by night), I’m a paramedic working on the front lines. When I’m not on the road, I’m at my desk diving into the world of computer science. It’s my favorite way to decompress after a long shift.
 
-> Your support helps keep me caffeinated for those 24-hour shifts and contributes to my learning journey in tech. Whether it's a 'thank you' for my service or just a shared love for clean code, you can <a href="https://buymeacoffee.com/yourditchdoc" target="_blank" rel="noopener noreferrer">**support the project here**↗️</a>.
+> Your support helps keep me caffeinated for those 24-hour shifts and contributes to my learning journey in tech. Whether it's a 'thank you' for my service or just a shared love for clean code, you can <a href="https://buymeacoffee.com/yourditchdoc/" target="_blank" rel="noopener noreferrer">**support the project here**↗️</a>.
 
 ![App Screenshot](/Example_tool.png)
 
@@ -38,7 +38,7 @@ The **DFW ER Navigator Pro** operates through a seamless loop between your data,
 
    
 <p align="center">
-  <a href="https://app.yourditchdoc.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://app.yourditchdoc.com/freemapping.php" target="_blank" rel="noopener noreferrer">
     <strong>🚀 Click here to launch the DFW ER Navigator Pro Tool</strong>
   </a>
 </p>
