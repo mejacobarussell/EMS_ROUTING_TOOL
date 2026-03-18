@@ -1,4 +1,4 @@
-![Apache Status](https://img.shields.io/endpoint?url=https://system.emstool.com/apache_status.php) |  
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fsystem.emstool.com%2Fapache_status.php) |
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Access](https://img.shields.io/badge/Access-Managed_Service-blue)
