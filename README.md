@@ -1,4 +1,4 @@
-![Dynamic Support](https://img.shields.io/endpoint?url=https://system.emstool.com/web_status.php)
+![Apache Status](https://img.shields.io/endpoint?url=https://system.emstool.com/apache_status.php) | 
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Access](https://img.shields.io/badge/Access-Managed_Service-blue)
