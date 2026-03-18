@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Access](https://img.shields.io/badge/Access-Managed_Service-blue)
+![Platform](https://img.shields.io/badge/Platform-EMSTOOL-red)
+
 # EMSTOOL | Clinical Operations & Tactical Mapping
 
 **EMSTOOL** is a high-performance, high-contrast mission control interface designed for EMS field providers and agency administrators. It centralizes critical hospital data, station mapping, and intelligent routing into a single, reliable platform.
