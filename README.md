@@ -46,12 +46,21 @@ Designed for high-intensity environments where eye strain and speed matter:
 
 EMSTOOL is built on a robust full-stack architecture (PHP, MySQL, JavaScript) utilizing **Docker** containerization and **NVME-optimized** routing servers for maximum uptime.
 
-### To Request Access for Your Agency:
-If you are an EMS Director, Chief, or Lead Developer looking to deploy a dedicated workspace for your region:
 
-1.  **Visit the Live Site:** [Insert Your Website Link Here]
-2.  **Request a Demo:** Contact our lead architect to discuss your agency's specific mapping needs.
-3.  **Custom Data Integration:** We specialize in migrating existing station and hospital SQL data into high-performance production environments.
+🚑 Agency Access & Deployment
+EMSTOOL offers flexible deployment options for EMS Directors, Chiefs, and Lead Developers looking to modernize their regional mapping.
+
+1. Explore the Free System
+Anyone can test the platform's core capabilities immediately.
+Live Demo: demo.emstool.com
+
+Self-Registration: Register a New Account
+
+2. Request a Dedicated Agency Workspace
+For agencies requiring data privacy, custom station routing, and hospital-specific clinical data:
+Custom Data Integration: We specialize in migrating existing station and hospital SQL data into dedicated, high-performance production environments (e.g., fortworth.emstool.com).
+NOC-Style Interface: Get full access to the stability-bar monitoring system, custom hospital door codes, and battalion-specific routing.
+Contact Lead Architect: Reach out via EMSTool.com to discuss a dedicated deployment for your region.
 
 ---
 
