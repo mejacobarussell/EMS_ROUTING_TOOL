@@ -44,24 +44,27 @@ Designed for high-intensity environments where eye strain and speed matter:
 
 ## 🛠 Deployment & Access
 
-EMSTOOL is built on a robust full-stack architecture (PHP, MySQL, JavaScript) utilizing **Docker** containerization and **NVME-optimized** routing servers for maximum uptime.
+EMSTOOL is built on a robust full-stack architecture (PHP, MySQL, JavaScript) utilizing **Docker** containerization and **optimized** routing servers for maximum uptime.
 
 
-🚑 Agency Access & Deployment
-EMSTOOL offers flexible deployment options for EMS Directors, Chiefs, and Lead Developers looking to modernize their regional mapping.
+🚑 National Scale Routing & Agency Access
+EMSTOOL now features a Complete USA OSRM Engine, providing high-performance routing across every state and city in the country.
 
-1. Explore the Free System
-Anyone can test the platform's core capabilities immediately.
-Live Demo: demo.emstool.com
+🗺️ Explore the Platform
+Live Global Demo: demo.emstool.com
 
-Self-Registration: Register a New Account
+Instant Registration: Create an Account
 
-2. Request a Dedicated Agency Workspace
-For agencies requiring data privacy, custom station routing, and hospital-specific clinical data:
-Custom Data Integration: We specialize in migrating existing station and hospital SQL data into dedicated, high-performance production environments (e.g., fortworth.emstool.com).
-NOC-Style Interface: Get full access to the stability-bar monitoring system, custom hospital door codes, and battalion-specific routing.
-Contact Lead Architect: Reach out via EMSTool.com to discuss a dedicated deployment for your region.
+🏢 Dedicated Agency Workspaces
+We provide specialized, high-intensity environments for EMS Directors, Chiefs, and Lead Developers.
 
+National Coverage: Deploy routing for any jurisdiction in the USA with sub-second latency.
+
+Custom SQL Integration: We specialize in migrating existing station and hospital data (including ER Door Codes, EMS Room Codes, and Trauma Levels) into dedicated production workspaces (e.g., fortworth.emstool.com).
+
+Stability Bar Monitoring: Real-time system health monitoring for mission-critical deployments.
+
+Request a Custom Build: Contact our lead architect via EMSTool.com to discuss your agency's specific data migration and mapping needs.
 ---
 
 ## 📜 License & Terms
