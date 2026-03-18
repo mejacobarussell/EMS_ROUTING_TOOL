@@ -1,4 +1,4 @@
-[![Service Status](https://img.shields.io/badge/Service_Status-Online-brightgreen?style=flat-square)](https://system.emstool.com/)
+![Dynamic Support](https://img.shields.io/endpoint?url=https://system.emstool.com/status.json)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Access](https://img.shields.io/badge/Access-Managed_Service-blue)
