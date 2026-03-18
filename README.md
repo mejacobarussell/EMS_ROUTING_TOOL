@@ -8,6 +8,10 @@
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
 
+## 🔗 Quick Links
+* **Official Website:** [EMSTool.com](https://www.emstool.com)
+* **User Registration:** [Create an Account](https://www.emstool.com/users/register.php)
+
 # EMSTOOL | Clinical Operations & Tactical Mapping
 
 **EMSTOOL** is a high-performance, high-contrast mission control interface designed for EMS field providers and agency administrators. It centralizes critical hospital data, station mapping, and intelligent routing into a single, reliable platform.
