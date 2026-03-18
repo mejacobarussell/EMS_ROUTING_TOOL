@@ -1,6 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Access](https://img.shields.io/badge/Access-Managed_Service-blue)
 ![Platform](https://img.shields.io/badge/Platform-EMSTOOL-red)
+![License](https://img.shields.io/badge/License-Proprietary-red)
 
 # EMSTOOL | Clinical Operations & Tactical Mapping
 
