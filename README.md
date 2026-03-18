@@ -1,6 +1,5 @@
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fsystem.emstool.com%2FWeb_Server_Status.php)
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fsystem.emstool.com%2FOSRM_Status.php)
-
+![Web Server](https://img.shields.io/endpoint?url=https://system.emstool.com/Web_Server_Status.php)
+![OSRM Status](https://img.shields.io/endpoint?url=https://system.emstool.com/OSRM_Status.php)
 
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
